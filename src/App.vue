@@ -5,7 +5,7 @@
     </component>
     <Live2d />
     <CustomizationMenu />
-    <BackToTop />
+    //<BackToTop />
     <Snackbar />
   </v-app>
 </template>
